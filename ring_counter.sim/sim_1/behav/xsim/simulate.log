@@ -1,0 +1,16 @@
+Time resolution is 1 ps
+Time = 0 | init = 0 | count = xxxxxxxx
+Time = 12000 | init = 1 | count = xxxxxxxx
+Time = 15000 | init = 1 | count = 10000000
+Time = 22000 | init = 0 | count = 10000000
+Time = 25000 | init = 0 | count = 00000001
+Time = 35000 | init = 0 | count = 00000010
+Time = 45000 | init = 0 | count = 00000100
+Time = 55000 | init = 0 | count = 00001000
+Time = 65000 | init = 0 | count = 00010000
+Time = 75000 | init = 0 | count = 00100000
+Time = 85000 | init = 0 | count = 01000000
+Time = 95000 | init = 0 | count = 10000000
+Time = 105000 | init = 0 | count = 00000001
+Time = 115000 | init = 0 | count = 00000010
+$finish called at time : 122 ns : File "C:/Users/lenovo/Downloads/Vivado/ring_counter/ring_counter.srcs/sim_1/new/ring_counter_tb.v" Line 62
